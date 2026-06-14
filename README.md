@@ -1,6 +1,6 @@
 # Mini Job Seeker
 
-This project is a streamlined job search application that simplifies finding relevant job opportunities. It allows users to upload their resume in PDF format, automatically extracts key skills, and then scrapes Internshala to find job listings that match those skills.
+This project is a streamlined job search application that simplifies finding relevant job opportunities. It allows users to upload their resume in PDF format, automatically extracts key skills, and then scrapes web to find job listings that match those skills.
 
 ## Features
 
