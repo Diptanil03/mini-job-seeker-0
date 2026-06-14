@@ -6,7 +6,7 @@ This project is a streamlined job search application that simplifies finding rel
 
 - **Resume-Based Job Matching:** Upload your CV, and the application does the rest.
 - **Skill Extraction:** Intelligently parses your resume to identify your technical and soft skills.
-- **Automated Job Scraping:** Uses the extracted skills to perform a targeted search on Internshala.
+- **Automated Job Scraping:** Uses the extracted skills to perform a targeted search.
 - **Instant Results:** Displays a clean, card-based list of relevant jobs, including company name, job title, location, and a direct link to the application page.
 - **Responsive UI:** A simple and effective interface built with React and Tailwind CSS.
 
